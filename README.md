@@ -4,7 +4,7 @@
 
 I build multi-agent workflows, RAG pipelines, and LLM evaluation harnesses that real business teams use every day — not demos. Twelve years of enterprise engineering across telecom, healthcare, insurance, and federal, where reliability, security review, and data governance aren't optional. The last two years, all-in on agentic AI.
 
-📍 Open to relocation · 🔗 [LinkedIn](https://www.linkedin.com/in/sreenathtella) · 🌐 [thinkingx.org](https://thinkingx.org) · ✉️ sreenath.aieng@gmail.com
+📍 Open to relocation · 🔗 [LinkedIn](https://www.linkedin.com/in/sreenathtella) · 🌐 [thinkingx.org](https://thinkingx.org) 
 
 ---
 
@@ -74,10 +74,4 @@ Twelve years, mostly inside organizations where a bad deploy has consequences.
 
 ---
 
-## What I'm looking for
-
-Hard problems in agentic systems, forward-deployed AI, and the infrastructure the next wave of software runs on — at companies where AI has to survive contact with a real organization.
-
-If you're hiring for that, or you're a founder trying to get an agentic system past the prototype wall, I'd like to talk.
-
-**[LinkedIn](https://www.linkedin.com/in/sreenathtella)** · **sreenath.aieng@gmail.com** · **[thinkingx.org](https://thinkingx.org)**
+**[LinkedIn](https://www.linkedin.com/in/sreenathtella)**  · **[thinkingx.org](https://thinkingx.org)**
