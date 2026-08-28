@@ -56,19 +56,6 @@ A few opinions, since you'll find out anyway:
 
 ---
 
-## Track record
-
-Twelve years, mostly inside organizations where a bad deploy has consequences.
-
-**AT&T** · Agentic AI Engineer · 2025–present
-**Abbott** · Applied AI Engineer, GTM Order Automation · 2024–2025
-**USDA** · Sr. Solutions Architect, Salesforce & Data · 2022–2024 — cut manual case-intake time 60%
-**Guidewire** · Sr. Salesforce Engineer, Sales Ops / CPQ · 2022 — improved quote turnaround 30%
-**Verizon** · Salesforce Solution Engineer, Contract Lifecycle · 2019–2021 — cut contract generation time 45%
-**Farmers Insurance** · Sr. Salesforce Lightning Developer · 2017–2019 — lifted user adoption 40%+
-**Sunrun** (via Arc Solutions) · Salesforce Application Developer · 2017
-**DXC Technology** · Salesforce Consultant · 2013–2015
-
 **Certifications** — NVIDIA Certified Professional: Agentic AI · NVIDIA Building AI Agents with Multimodal Models · AWS Certified Developer – Associate · AWS Certified AI Practitioner *(in progress)* · Salesforce Certified Data 360 Consultant
 
 ---
