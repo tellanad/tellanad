@@ -4,7 +4,6 @@
 
 I build multi-agent workflows, RAG pipelines, and LLM evaluation harnesses that real business teams use every day — not demos. Twelve years of enterprise engineering across telecom, healthcare, insurance, and federal, where reliability, security review, and data governance aren't optional. The last two years, all-in on agentic AI.
 
-📍 Open to relocation · 🔗 [LinkedIn](https://www.linkedin.com/in/sreenathtella) · 🌐 [thinkingx.org](https://thinkingx.org) 
 
 ---
 
