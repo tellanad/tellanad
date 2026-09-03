@@ -60,4 +60,4 @@ A few opinions, since you'll find out anyway:
 
 ---
 
-**[LinkedIn](https://www.linkedin.com/in/sreenathtella)**  · **[thinkingx.org](https://thinkingx.org)**
+**[LinkedIn](https://www.linkedin.com/in/sreenathtella)**  
