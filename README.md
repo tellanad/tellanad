@@ -19,4 +19,3 @@ Python · SQL · LangGraph · FastAPI · Azure · Docker · Qdrant · Salesforce
 ## Connect
 
 * [LinkedIn](https://www.linkedin.com/in/sreenathtella/)
-* [Website](https://thinkingx.org)
