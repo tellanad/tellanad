@@ -2,7 +2,7 @@
 
 **Applied AI engineer building agents, retrieval systems, and enterprise integrations.**
 
-My background spans 12 years of software and data engineering across telecom, healthcare, insurance, and government. My experience includes agentic workflows at AT&T.
+My background spans 12 years of software and data engineering across telecom, healthcare, insurance, and government. My current experience includes agentic workflows at AT&T.
 
 My focus is forward deployed AI: connecting models, data, and tools to business workflows, with evaluation, observability, and human review built in. I'm also deepening my inference engineering skills, focusing on model serving, latency, throughput, and cost.
 
